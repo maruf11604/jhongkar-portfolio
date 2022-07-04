@@ -8,7 +8,7 @@ h1 {
     font-size: 50px;
 }
 
-h1 span {
+.orcol {
     color: orange;
 }
 
@@ -44,4 +44,36 @@ h1 span {
 .bac-img {
     background-image: url("images/top-banner.png");
     background-repeat: no-repeat;
+}
+
+.drm-img {
+    background-image: url("images/dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+.pera {
+    margin-right: 110px;
+}
+
+.web {
+    width: 50%;
+    box-shadow: 10px 10px 40px gray;
+    margin-left: 5%;
+    padding: 20px 40px;
+    text-align: justify;
+    margin-right: 5%;
+}
+
+.ex-sec {
+    background-image: url("images/exp-bg.png");
+    background-repeat: no-repeat;
+}
+
+.full {
+    border-left: 5px solid tomato;
+}
+
+.baby {
+    border-left: 5px solid blue;
 }
